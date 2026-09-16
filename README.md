@@ -10,13 +10,13 @@ O objetivo deste projeto é desenvolver, treinar e avaliar uma Rede Neural Artif
 ##### Matéria: Inteligencia Artificial
 
 ---
-##### Alunos:
-Rayana Calumby de Oliveira
-Ricardo Marcarini Sangaletti
-Jean Lucas Biene
-Thiago da Costa
-Eduardo Leandro Brandalise
-Gustavo Lotti Tonieto
+##### Alunos:  
+Rayana Calumby de Oliveira  
+Ricardo Marcarini Sangaletti  
+Jean Lucas Biene  
+Thiago da Costa  
+Eduardo Leandro Brandalise  
+Gustavo Lotti Tonieto  
 
 ---
 
