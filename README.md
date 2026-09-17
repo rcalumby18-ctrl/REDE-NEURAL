@@ -12,6 +12,7 @@ O objetivo deste projeto é desenvolver, treinar e avaliar uma Rede Neural Artif
 ---
 ##### Alunos:  
 Rayana Calumby de Oliveira  
+Pedro Augusto do Pilar  
 Ricardo Marcarini Sangaletti  
 Jean Lucas Biene  
 Thiago da Costa  
